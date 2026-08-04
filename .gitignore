@@ -1,0 +1,8 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+/**/*_checkpoint.csv
+/**/*-checkpoint.csv
+
+
+__pycache__/
+*.pyc
