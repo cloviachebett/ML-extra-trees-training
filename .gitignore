@@ -6,3 +6,10 @@
 
 __pycache__/
 *.pyc
+
+titanic_et_model.pkl
+test.csv
+titanic.csv
+titanic_cleaned.csv
+Untitled2.ipynb
+train.csv
